@@ -1,2 +1,3 @@
 Find here all the ressources from the # Maven-Northwind-Challenge.
 On the file "Graphics Rules" you will find all the graphic chart, background...
+Folder "GitHub countries" contains world map json file.
